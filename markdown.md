@@ -23,7 +23,7 @@ System.out.println(x + y);
 
 [Enlace a otro Markdown del repositorio](README.md)
 
-![Imagen de relleno](cangrejoooo.jpg)
+![Imagen de relleno](cangrejo.jpg)
 
 | Campo        | Valor       | Notas              |
 |--------------|-------------|--------------------|
