@@ -1,14 +1,14 @@
-# Documento de prueba Markdown
+# Markdown Leeeire
 
-## Texto de relleno
+## Texto sin mas
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut *labore et dolore magna aliqua*. Ut enim ad minim veniam, quis nostrud exercitation `ullamco laboris` nisi ut aliquip ex ea commodo consequat.
 
-```python
+```java
 # Código de ejemplo sin mucha lógica
-x = 10
-y = 20
-print(x + y)
+int x = 10;
+int y = 20;
+System.out.println(x + y);
 ```
 
 1. Lorem ipsum
@@ -23,7 +23,8 @@ print(x + y)
 
 [Enlace a otro Markdown del repositorio](README.md)
 
-![Imagen de relleno](https://via.placeholder.com/300x200.png?text=Imagen+de+ejemplo)
+![Imagen de relleno](<img width="216" height="234" alt="image" src="https://github.com/user-attachments/assets/51e427c1-705c-4531-a6d1-8fc23f212bbd" />
+)
 
 | Campo        | Valor       | Notas              |
 |--------------|-------------|--------------------|
